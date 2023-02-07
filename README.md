@@ -1,6 +1,6 @@
 # Gastronauts Restaurant Company - Project 3
 
-## Table of Contents
+# Table of Contents
 - [Description](#description)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
